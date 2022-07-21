@@ -1,0 +1,13 @@
+{
+  "lastname" : "Philimonov",
+  "firstname" : "Stepan",
+  "age" : 22,
+  "islegal" : true,
+  "marks" : [
+    4,5,5,5,2,3
+  ],
+  "address" : {
+    "city" : "Moscow",
+    "street" : "Bauman street"
+  }
+}
